@@ -105,11 +105,6 @@ npm install
 ### 4. Environment Setup
 Create a `.env` file in the Backend directory and add your `MONGO_URI` and `JWT_SECRET`.
 
----
-
-## 📸 Screenshots
-
-Add screenshots here
 
 ---
 
